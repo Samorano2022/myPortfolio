@@ -1,0 +1,22 @@
+.header{
+    height: 75px;
+    width: 100vw;
+    background: #ffff;
+}
+.header__container{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1ft);
+}
+.btn{
+    width: 230px;
+    height: 40px;
+    color: #171717;
+}
+.mid__nav{
+display: flex;
+gap: 20px;
+align-items: center;
+justify-content: center;
+}
