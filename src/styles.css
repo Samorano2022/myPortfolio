@@ -6,11 +6,4 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-:root{
-   --gold: #efce2b;
-   --white: #fff;
-   --blue: #191970;
-   --red: #bb0600;
-   --black: #120e0d;
-}
 

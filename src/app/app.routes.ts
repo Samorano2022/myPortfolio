@@ -13,7 +13,6 @@ export const routes: Routes = [
     { path: 'home', component: FullprojectComponent},
     { path:'about', component: ProfileComponent},
     { path:'expertise', component: ExpertComponent},
-    { path:'project', component: ProjbodyComponent},
     { path:'extend', component: ExtentedComponent}
     //{ path: '**', component: PageNotFoundComponent },
       // Wildcard route for a 404 page
